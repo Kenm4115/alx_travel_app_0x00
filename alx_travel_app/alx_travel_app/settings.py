@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django rest_framework',
     'django corsheaders',
     'drf_yasg',
+    'listings',
 ]
 
 MIDDLEWARE = [
