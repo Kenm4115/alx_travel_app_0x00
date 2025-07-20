@@ -56,11 +56,3 @@ Key additions include:
 - `BookingSerializer`: exposes booking fields
 
 ---
-
-## 🚀 **Setup and Run**
-
-1. **Clone the repo and install dependencies**
-```bash
-git clone <your-repo-url>
-cd alx_travel_app_0x00
-pip install -r requirements.txt
